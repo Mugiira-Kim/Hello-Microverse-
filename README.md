@@ -1,24 +1,45 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# HELLO MICROVERSE 
-This is a project to help micronauts master Git and Github
+# Hello Microverse
 
-#Built With
-Major Languages
-
-#Author
-
-GitHub: @Mugiira-Kim
-Twitter: @Bbm-Cru
-LinkedIn: Mugiirakim
+> This is a project to help micronauts master git and Gitflow.
 
 
-#Contributing
+## Built With
+
+- Major languages
+- Lint
+
+
+
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/Mugiira-Kim)
+- Twitter: [@twitterhandle](https://twitter.com/Bbm-Cru)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Mugiirakim)
+
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-#Show your support
-Give a star if you like this project!
+## Show your support
 
-#Acknowledgments
-Hat tip to Microverse!
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
