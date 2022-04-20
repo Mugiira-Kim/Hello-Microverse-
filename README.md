@@ -16,7 +16,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Author-Mugiira
 
 - GitHub: [@githubhandle](https://github.com/Mugiira-Kim)
 - Twitter: [@twitterhandle](https://twitter.com/Bbm-Cru)
