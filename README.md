@@ -1,23 +1,37 @@
-# Hello-Microverse-
-This is a project to help micronauts master Git and Github
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Built With
-Major Languages
+# Hello Microverse
 
-# Author
-
-GitHub: @Mugiira-Kim
-Twitter: @Bbm-Cru
-LinkedIn: Mugiirakim
+> A project to help in the mastery of Gitflow.
+> To help understand how to use linters
 
 
-# Contributing
-Contributions, issues, and feature requests are welcome!
+## Built With
 
-Feel free to check the issues page.
+- HTML & CSS
+- Linters
 
-# Show your support
-Give a star if you like this project!
+## Authors
 
-# Acknowledgments
-Hat tip to Microverse!
+👤 **Mugiira Kim**
+
+- GitHub: [@githubhandle](https://github.com/Mugiira-Kim)
+- Twitter: [@twitterhandle](https://twitter.com/@Bbm-Cru)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Mugiirakim)
+
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to Micoverse
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
