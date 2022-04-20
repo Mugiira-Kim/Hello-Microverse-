@@ -2,25 +2,33 @@
 
 # Hello Microverse
 
-> A project to help in the mastery of Gitflow.
-> To help understand how to use linters
+> This is a project to help micronauts master git and Gitflow.
 
 
 ## Built With
 
-- HTML & CSS
-- Linters
+- Major languages
+- Lint
+
+
+
+
 
 ## Authors
 
-👤 **Mugiira Kim**
+👤 **Author-Mugiira
 
 - GitHub: [@githubhandle](https://github.com/Mugiira-Kim)
-- Twitter: [@twitterhandle](https://twitter.com/@Bbm-Cru)
+- Twitter: [@twitterhandle](https://twitter.com/Bbm-Cru)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/Mugiirakim)
 
 
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -28,7 +36,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to Micoverse
+- Hat tip to anyone whose code was used
 - Inspiration
 - etc
 
